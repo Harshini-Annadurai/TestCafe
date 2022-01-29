@@ -1,0 +1,12 @@
+[
+    {  
+        "scenario"      : "Valid Information",
+        "userName"      : "sdlc.automationtesting2",
+        "password"      : "%cr8&CiaL",
+        "emailOrPhone"  : "sdlc.automationtesting2@gmail.com",
+        "fullName"      : "TestCafe Automator",
+        "day"           : "15",
+        "month"         : "August",
+        "year"          : "1997"  
+    }
+]
