@@ -1,4 +1,4 @@
-import GetOwnPropertyKeys from 'es-abstract/2015/getownpropertykeys';
+//import GetOwnPropertyKeys from 'es-abstract/2015/getownpropertykeys';
 
 var Imap = require('imap'),
   inspect = require('util').inspect;
